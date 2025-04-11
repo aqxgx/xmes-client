@@ -59,7 +59,7 @@ export function useColumns() {
       className: "pure-version",
       renderDescriptionsItem: () => {
         return (
-          <a href="https://github.com/nineaiyu/xmes-client" target="_blank">
+          <a href="https://github.com/aqxgx/xmes-client" target="_blank">
             <span style="color: var(--el-color-primary)">前端代码地址</span>
           </a>
         );
@@ -72,7 +72,7 @@ export function useColumns() {
       className: "pure-version",
       renderDescriptionsItem: () => {
         return (
-          <a href="https://github.com/nineaiyu/xmes-server" target="_blank">
+          <a href="https://github.com/aqxgx/xmes-server" target="_blank">
             <span style="color: var(--el-color-primary)">后端代码地址</span>
           </a>
         );

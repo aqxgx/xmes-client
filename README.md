@@ -5,12 +5,8 @@ xmes-基于 Django+vue3 的 rbac 权限管理系统
 基于 [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) 二次开发
 
 Django 做后端服务
-[xmes-server](https://github.com/nineaiyu/xmes-server)
+[xmes-server](https://github.com/aqxgx/xmes-server)
 
-### 在线预览
-
-[https://xmes.dvcloud.xin/](https://xmes.dvcloud.xin/)
-账号密码：admin/admin123
 
 ## 开发文档
 

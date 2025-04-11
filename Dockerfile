@@ -1,4 +1,4 @@
-FROM nineaiyu/xmes-client-base:20250401_063632 AS stage-build
+FROM aqxgx/xmes-client-base:20250401_063632 AS stage-build
 
 ARG VERSION
 

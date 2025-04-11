@@ -31,19 +31,19 @@
     "vite",
     "esm"
   ],
-  "homepage": "https://github.com/nineaiyu/xmes-client",
+  "homepage": "https://github.com/aqxgx/xmes-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nineaiyu/xmes-client.git"
+    "url": "git+https://github.com/aqxgx/xmes-client.git"
   },
   "bugs": {
-    "url": "https://github.com/nineaiyu/xmes-client/issues"
+    "url": "https://github.com/aqxgx/xmes-client/issues"
   },
   "license": "MIT",
   "author": {
     "name": "isummer",
     "email": "nineven@qq.com",
-    "url": "https://github.com/nineaiyu/"
+    "url": "https://github.com/aqxgx/"
   },
   "dependencies": {
     "@pureadmin/table": "^3.2.1",
