@@ -62,7 +62,7 @@ const chatHandle = () => {
 const enter = ref(false);
 
 onMounted(() => {
-  ws.value = new PureWebSocket("system_default_websocket", "xadmin", {
+  ws.value = new PureWebSocket("system_default_websocket", "xmes", {
     openCallback: () => {
       message("连接建立成功", { type: "success" });
       enter.value = true;

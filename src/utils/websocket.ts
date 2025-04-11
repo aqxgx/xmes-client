@@ -255,7 +255,7 @@ class WS {
 const { VITE_WSS_DOMAIN } = import.meta.env;
 
 class PureWebSocket extends WS {
-  constructor(username: string, group: string = "xadmin", options?: WSOptions) {
+  constructor(username: string, group: string = "xmes", options?: WSOptions) {
     const url = `${VITE_WSS_DOMAIN}/ws/message/${group}/${username}`;
     super(url, options);
   }

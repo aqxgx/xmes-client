@@ -1,5 +1,5 @@
 {
-  "name": "xadmin",
+  "name": "xmes",
   "version": "4.1.5",
   "private": true,
   "type": "module",
@@ -22,7 +22,7 @@
     "preinstall": "npx only-allow pnpm"
   },
   "keywords": [
-    "xadmin",
+    "xmes",
     "element-plus",
     "tailwindcss",
     "typescript",
@@ -31,13 +31,13 @@
     "vite",
     "esm"
   ],
-  "homepage": "https://github.com/nineaiyu/xadmin-client",
+  "homepage": "https://github.com/nineaiyu/xmes-client",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nineaiyu/xadmin-client.git"
+    "url": "git+https://github.com/nineaiyu/xmes-client.git"
   },
   "bugs": {
-    "url": "https://github.com/nineaiyu/xadmin-client/issues"
+    "url": "https://github.com/nineaiyu/xmes-client/issues"
   },
   "license": "MIT",
   "author": {

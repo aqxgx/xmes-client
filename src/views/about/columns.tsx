@@ -59,7 +59,7 @@ export function useColumns() {
       className: "pure-version",
       renderDescriptionsItem: () => {
         return (
-          <a href="https://github.com/nineaiyu/xadmin-client" target="_blank">
+          <a href="https://github.com/nineaiyu/xmes-client" target="_blank">
             <span style="color: var(--el-color-primary)">前端代码地址</span>
           </a>
         );
@@ -72,7 +72,7 @@ export function useColumns() {
       className: "pure-version",
       renderDescriptionsItem: () => {
         return (
-          <a href="https://github.com/nineaiyu/xadmin-server" target="_blank">
+          <a href="https://github.com/nineaiyu/xmes-server" target="_blank">
             <span style="color: var(--el-color-primary)">后端代码地址</span>
           </a>
         );
@@ -98,7 +98,7 @@ export function useColumns() {
       className: "pure-version",
       renderDescriptionsItem: () => {
         return (
-          <a href="https://xadmin.dvcloud.xin/" target="_blank">
+          <a href="https://xmes.dvcloud.xin/" target="_blank">
             <span style="color: var(--el-color-primary)">预览链接</span>
           </a>
         );

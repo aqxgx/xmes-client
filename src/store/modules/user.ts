@@ -267,7 +267,7 @@ export const useUserStore = defineStore("pure-user", {
           }
         }
       };
-      this.websocket = new PureWebSocket(this.username, "xadmin", {
+      this.websocket = new PureWebSocket(this.username, "xmes", {
         openCallback: () => {
           this.websocket.onMessage(data => {
             onMessage(data);
